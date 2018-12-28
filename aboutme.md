@@ -4,13 +4,6 @@ title: Research
 subtitle: Current and past projects
 ---
 
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustaches
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My primary research objective is to enable reactive robotic manipulation. The ability to perceive the environment and react to unanticipated events is of paramount importance to deploy robots that are to interact with the physical world, which is difficult to observe and predict. Whereas humans effectively process and react to sensing information, robot manipulation skills are most often programmed in an open- loop fashion, incapable of correcting their motion based on detected errors.
+I want to develop robots skilled at i) monitoring the execution of a task, and ii) using sensed information in real-time for closed-loop control. Giving robots the ability to identify mistakes and correct their behavior in a timely fashion is essential for them to purposefully interact with their environment.
