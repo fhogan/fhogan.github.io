@@ -9,7 +9,10 @@ layout: null
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
-  color: #4f4a46;
+  color: #404040;
+/*
+  4f4a46
+*/
   position: relative;
   background-color: {{ site.page-col }};
   {% if site.page-img %}
@@ -640,7 +643,7 @@ table {
 }
 table tr {
   border-top: 1px solid #cccccc;
-  background-color: #ffffff;
+  background-color: #000000;
   margin: 0;
   padding: 0;
 }
