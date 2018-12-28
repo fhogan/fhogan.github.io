@@ -9,7 +9,7 @@ My research aims to enable robots skilled at i) monitoring the execution of a ta
 
 
 <!-- Entry 1 -->
-  ---
+  <hr>
   <h3>
     Hybrid Feedback Control For Contact Interactions
   </h3>
@@ -35,7 +35,7 @@ My research aims to enable robots skilled at i) monitoring the execution of a ta
   </p>
 
 <!-- Entry 2 -->
-  ---
+  <hr>
   <h3>
     Tactile regrasp: Grasp adjustments via simulated tactile transformations
   </h3>
