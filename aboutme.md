@@ -11,7 +11,7 @@ My research aims to enable robots skilled at i) monitoring the execution of a ta
 <!-- Entry 1 -->
   ---
   <h3>
-    Hybrid Feedback Control For Robotic Manipulation
+    Hybrid Feedback Control For Contact Interactions
   </h3>
   <p>
 		<img src="/img/hybrid_behavior.png" alt="Tactile" style="float:right;width:45%;" hspace="25" vspace="50">
@@ -21,14 +21,17 @@ My research aims to enable robots skilled at i) monitoring the execution of a ta
         for dynamical systems that involve frictional contact interactions. 
         Hybridness and underactuation are key characteristics of these systems 
         that  complicate the design of feedback controllers.
-  <p>
-    <a href="https://arxiv.org/abs/1611.08268"
-    class="button" style="vertical-align:middle"><span>WAFR 2016</span></a>
-  </p>
   <p> Our results show that a Model Predictive Control approach used in tandem 
   with integer programming offers a powerful solution to capture the dynamic 
   constraints associated with the friction cone as well as the hybrid nature 
   of contact.
+  </p>
+  
+  <p>
+    <a href="https://arxiv.org/abs/1611.08268"
+    class="button" style="vertical-align:middle"><span>WAFR 2016</span></a>
+    <a href="https://arxiv.org/abs/1710.05724"
+    class="button" style="vertical-align:middle"><span>ICRA 2018</span></a>
   </p>
 
 <!-- Entry 2 -->
