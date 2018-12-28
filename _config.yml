@@ -23,7 +23,7 @@ description: Francois Hogan's Personal Webpage
 
 # List of links in the navigation bar
 navbar-links:
-  Research: "research"
+  About Me: "aboutme"
   Publications: "publications"
   CV: "cv"
   #Resources:
