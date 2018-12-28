@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Research Projects
 subtitle: Research Projects
 ---
 
