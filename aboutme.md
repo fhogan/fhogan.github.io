@@ -14,7 +14,7 @@ My research aims to enable robots skilled at i) monitoring the execution of a ta
     Hybrid Feedback Control For Contact Interactions
   </h3>
   <p>
-		<img src="/img/hybrid_behavior.png" alt="Tactile" style="float:right;width:45%;" hspace="25" vspace="50">
+		<img src="/img/hybrid_behavior.png" alt="Tactile" style="float:right;width:45%;" hspace="25" vspace="20">
 	</p>
   <p>
         We investigate investigates real-time control strategies 
@@ -40,7 +40,7 @@ My research aims to enable robots skilled at i) monitoring the execution of a ta
     Tactile regrasp: Grasp adjustments via simulated tactile transformations
   </h3>
   <p>
-		<img src="/img/tactile_regrasp_vertical.png" alt="Tactile" style="float:right;width:45%;" hspace="25" vspace="50">
+		<img src="/img/tactile_regrasp_vertical.png" alt="Tactile" style="float:right;width:45%;" hspace="25" vspace="20">
 	</p>
   <p>
         In this project, we develop tactile reflexes, giving robots the ability to make grasp adjustments immediately 
