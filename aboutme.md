@@ -13,22 +13,28 @@ My research aims to enable robots skilled at i) monitoring the execution of a ta
 <!-- Entry 1 -->
   <hr>
   <h3>
-    Inferring robot parameters & contact forces during frictional interactions
+    Tactile Regrasps
   </h3>
   <p>
 		<img src="/img/tactile_regrasp.png" alt="Tactile" style="float:right;width:40%;" hspace="25" vspace="50">
 	</p>
   <p>
-		Let's assume we have a robotic system making contact with the
-		environment, can we make inferences about the physical properties
-		(such as masses, inertias, and contact parameters) of the robotic system? Can we
-		also make inferences about the contact forces from the interaction?
+		Endowing robots with reactive capabilities requires a tight integration of sensors, actuators, and computation. 
+        These requirements have led to the design and fabrication of an optical-based tactile sensor inspired from 
+        Gelsight [2] that renders high resolution images of the contact surface geometry.
+        In [3], we develop tactile reflexes, giving robots the ability to make grasp adjustments immediately 
+        upon making contact with an object. Tactile information shown in Fig. 1(b) is used to assess in real-time 
+        the quality of a grasp and predict failures preemptively. 
 	</p>
   <p>
-		In this project, I developed a mathematical framework that i) tells
-		us explicitly what parameters/forces are identifiable, and ii) provides
-		a formulation to compute these quantities given a time-series of observations,
-		under the assumption of rigid-body frictional interactions.
+Results show that tactile signatures captured 
+        during a grasp are discriminative and can predict the outcome of grasps with an accuracy of 85%. 
+        Moreover, we leverage the grasp stability metric to design a controller able to perform local grasp 
+        adjustments, where grasp are improved directly upon making initial touch with an object. In Fig. 1(c), 
+        after making an initial grasp on the object, the gripper adjusts its position to improve the grasp 
+        quality of the tactile imprint. This re-positioning allows the robot to secure a better grasp on the 
+        object and improves the overall grasping accuracy by 70%. The ability to react to contact information 
+        is crucial to identify failures preemptively and make corrections in real-time.
 	</p>
   <p>
     test
