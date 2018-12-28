@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research Projects
-subtitle: Research Projects
+title: Research 
+subtitle: Ph.D. Projects
 ---
 
 My primary research objective is to enable reactive robotic manipulation. The ability to perceive the environment and react to unanticipated events is of paramount importance to deploy robots that are to interact with the physical world, which is difficult to observe and predict. Whereas humans effectively process and react to sensing information, robot manipulation skills are most often programmed in an open- loop fashion, incapable of correcting their motion based on detected errors.
@@ -11,10 +11,33 @@ My research aims to enable robots skilled at i) monitoring the execution of a ta
 <!-- Entry 1 -->
   ---
   <h3>
+    Hybrid Feedback Control For Robotic Manipulation
+  </h3>
+  <p>
+		<img src="/img/hybrid_behavior.png" alt="Tactile" style="float:right;width:45%;" hspace="25" vspace="50">
+	</p>
+  <p>
+        We investigate investigates real-time control strategies 
+        for dynamical systems that involve frictional contact interactions. 
+        Hybridness and underactuation are key characteristics of these systems 
+        that  complicate the design of feedback controllers.
+  <p>
+    <a href="https://arxiv.org/abs/1611.08268"
+    class="button" style="vertical-align:middle"><span>WAFR 2016</span></a>
+  </p>
+  <p> Our results show that a Model Predictive Control approach used in tandem 
+  with integer programming offers a powerful solution to capture the dynamic 
+  constraints associated with the friction cone as well as the hybrid nature 
+  of contact.
+  </p>
+
+<!-- Entry 2 -->
+  ---
+  <h3>
     Tactile regrasp: Grasp adjustments via simulated tactile transformations
   </h3>
   <p>
-		<img src="/img/tactile_regrasp_vertical.png" alt="Tactile" style="float:right;width:30%;" hspace="25" vspace="50">
+		<img src="/img/tactile_regrasp_vertical.png" alt="Tactile" style="float:right;width:45%;" hspace="25" vspace="50">
 	</p>
   <p>
         In this project, we develop tactile reflexes, giving robots the ability to make grasp adjustments immediately 
