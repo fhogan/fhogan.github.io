@@ -16,7 +16,7 @@ My research aims to enable robots skilled at i) monitoring the execution of a ta
     Tactile Regrasps
   </h3>
   <p>
-		<img src="/img/tactile_regrasp.png" alt="Tactile" style="float:right;width:40%;" hspace="25" vspace="50">
+		<img src="/img/tactile_regrasp_horizontal.png" alt="Tactile" style="float:right;width:40%;" hspace="25" vspace="50">
 	</p>
   <p>
 		Endowing robots with reactive capabilities requires a tight integration of sensors, actuators, and computation. 
