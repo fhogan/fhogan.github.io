@@ -8,7 +8,7 @@ title: Publications
 [C1] M. Bauza<sup>\*</sup>, __F. R. Hogan__<sup>\*</sup>, and A. Rodriguez, 
 [A Data-Efficient Approach to Precise and Controlled Pushing](https://arxiv.org/abs/1807.09904), 
 Conference on Robot Learning (CoRL), Zurich, Switzerland, 2018. 
- [video](https://youtu.be/Z45O480pij0)
+ <span style="color:red">[video](https://youtu.be/Z45O480pij0)</span>
 
 [C2] __F. R. Hogan__<sup>\*</sup>, M. Bauza<sup>\*</sup>, and A. Rodriguez, [Tactile Regrasp: Grasp Adjustments via Simulated
 Tactile Transformations](https://arxiv.org/abs/1803.01940)  International Conference on Intelligent Robots and Systems (IROS), Madrid, Spain,
@@ -22,7 +22,7 @@ MPC](https://arxiv.org/abs/1710.05724) International Conference on Robotics and 
 
 [C4] A. Zeng, S. Song, K.T. Yu, E. Donlon,  __F. R. Hogan__, M. Bauza, D. Ma, O. Taylor, M. Liu, E.Romo, N. Fazeli, F. Alet, N. C. Dafle, 
 R. Holladay, I. Morona, P. Q. Nair, D. Green, I. Taylor, W. Liu, T. Funkhouser, A. Rodriguez [Robotic Pick-and-Place of Novel Objects in Clutter with Multi-
-Affordance Grasping and Cross-Domain Image Matching](https://arxiv.org/abs/1710.01330),  International Conference on Robotics and Automation}, Brisbane, Australia, 2018.  (Best Amazon Systems Paper)
+Affordance Grasping and Cross-Domain Image Matching](https://arxiv.org/abs/1710.01330),  International Conference on Robotics and Automation}, Brisbane, Australia, 2018.  (Best Amazon Systems Paper).
 [video](https://youtu.be/1OWDAj3zaCM)
 
 [C5] __F. R. Hogan__ and  A. Rodriguez, [Feedback Control of the Pusher-Slider System:
