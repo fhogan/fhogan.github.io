@@ -1,1 +1,1 @@
-<a href="/assets/francois_hogan_cv.pdf">Link Text Here</a>
+<embed src="/assets/francois_hogan_cv.pdf" width="500" height="375">
