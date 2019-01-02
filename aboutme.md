@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Research 
-subtitle: Ph.D. Projects
 ---
 
 My primary research objective is to enable reactive robotic manipulation. 
@@ -80,7 +79,7 @@ ii) using sensed information in real-time for closed-loop control.
 	</p>
   <p>
     <a href="https://ieeexplore.ieee.org/abstract/document/8461044/"
-    class="button" style="vertical-align:middle"><span>CoRL 2018</span></a>
+    class="button" style="vertical-align:middle"><span>ICRA 2018</span></a>
   </p>
   
 <!-- Entry 4 -->
