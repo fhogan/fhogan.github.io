@@ -8,7 +8,7 @@ title: Publications
 [C1] M. Bauza<sup>\*</sup>, __F. R. Hogan__<sup>\*</sup>, and A. Rodriguez, 
 [A Data-Efficient Approach to Precise and Controlled Pushing](https://arxiv.org/abs/1807.09904), 
 Conference on Robot Learning (CoRL), Zurich, Switzerland, 2018. 
- <span style="color:red">[video](https://youtu.be/Z45O480pij0)</span>
+[video](https://youtu.be/Z45O480pij0)
 
 [C2] __F. R. Hogan__<sup>\*</sup>, M. Bauza<sup>\*</sup>, and A. Rodriguez, [Tactile Regrasp: Grasp Adjustments via Simulated
 Tactile Transformations](https://arxiv.org/abs/1803.01940)  International Conference on Intelligent Robots and Systems (IROS), Madrid, Spain,
