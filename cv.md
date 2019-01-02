@@ -1,1 +1,1 @@
-<embed src="/assets/francois_hogan_cv.pdf" width="500" height="375">
+<iframe src="/assets/francois_hogan_cv.pdf" style="width: 660px; height:  640px;" frameborder="0"></iframe>
