@@ -3,7 +3,7 @@ layout: page
 title: Publications 
 ---
 
-## Journal Publications
+## Conference Publications
 
 [C1] M. Bauza, F. R. Hogan, and A. Rodriguez, "A Data-Efficient Approach to Precise and Controlled Pushing," Conference on Robot Learning (CoRL), Zurich, Switzerland,
 2018.
@@ -30,4 +30,25 @@ San Francisco, CA, 2016.
 [C7] F. R. Hogan, J. R. Forbes, and Alex Walsh, "Dynamic Modeling of a Flexible Rolling Sphere," 
  Proc. 11th International Conference on Multibody Systems, Nonlinear Dynamics, and Control, Boston, MA,  2015.
 
-## Conference Publications
+## Journal Publications
+
+[J1] F R. Hogan and A. Rodriguez, "Reactive Planar Manipulation with Hybrid Model Predictive Control,"
+ Submitted to  International Journal of Robotics Research. 
+
+[J2] A. Zeng, S. Song, K.T. Yu, E. Donlon,  F R. Hogan, et al., "Robotic Pick-and-Place of Novel Objects in Clutter 
+with Multi-Affordance Grasping and Cross-Domain Image Matching," Submitted to  International Journal of Robotics Research. 
+
+[J3] F. R. Hogan and J. R. Forbes, "Modeling of a Rolling Flexible Spherical Shell,"
+ Journal of Applied Mechanics. Vol.~83,~No.~9,~2016,~pp.~091010-(1--12). doi:10.1115/1.4033720. 
+
+[J4] F.~R.~Hogan and J.~R.~Forbes, "Trajectory Tracking, Estimation, and Control of a Pendulum-Driven Spherical Robot,"
+ Journal of Guidance, Control, and Dynamics. Vol.~39,~No.~5,~2016,~pp.~1118--1124. doi: 10.2514/1.G001458.
+
+[J5] F.~R.~Hogan and J.~R.~Forbes, "Modeling of a Rolling Flexible Circular Ring,"
+ Journal of Applied Mechanics. Vol.~82,~No.~11,~2016,~pp.~111003-1(1--14). doi: 10.1115/1.4031115.
+
+[J6] F.~R.~Hogan and J.~R.~Forbes, "Modeling of Spherical Robots Rolling on Generic Surfaces,"
+ Multibody System Dynamics. Vol.~32, No.~4,~2014. doi 10.1007/s11044-014-9438-3.
+
+[J7] F.~R.~Hogan, J.~R.~Forbes, and T.~D.~Barfoot, "
+Rolling Stability of a Power-Generating Tumbleweed Rover," Journal of Spacecraft and Rockets. Vol.~51,~No.~67,~2014,~pp.~1895--1906. doi:10.2514/1.A32883.
