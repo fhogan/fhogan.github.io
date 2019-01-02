@@ -63,18 +63,19 @@ ii) using sensed information in real-time for closed-loop control.
 <!-- Entry 3 -->
   <hr>
   <h3>
-    Model-Based Reinforcement Learning for Robotic Manipulation 
+    Data-Efficient Control for Planar Manipulation 
   </h3>
   <p>
-		<img src="/img/tactile_regrasp_vertical.png" alt="Tactile" style="float:right;width:45%;" hspace="25" vspace="20">
+		<img src="/img/pushing_8_track.png" alt="Tactile" style="float:right;width:45%;" hspace="25" vspace="20">
 	</p>
   <p>
-        In this project, we develop tactile reflexes, giving robots the ability to make grasp adjustments immediately 
-        upon making contact with an object. Tactile information is used to assess in real-time 
-        the quality of a grasp and predict failures preemptively and to design a controller able to perform local grasp 
-        adjustments, where grasp are improved directly upon making initial touch with an object. 
+        This paper explores the data-complexity required to control manipulation tasks with a model-based approach, 
+        where the model is learned from data. We employ this methodology to the problem of pushing an object on a planar 
+        surface, and find that we can design effective control policies with  small data requirements 
+        (less than $10$ datapoints) while achieving accurate closed-loop performance.
+
 	</p>
   <p>
-    <a href="https://arxiv.org/abs/1803.01940"
-    class="button" style="vertical-align:middle"><span>IROS 2018</span></a>
+    <a href="https://arxiv.org/abs/1807.09904"
+    class="button" style="vertical-align:middle"><span>CoRL 2018</span></a>
   </p>
