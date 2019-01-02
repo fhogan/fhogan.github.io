@@ -28,11 +28,12 @@ ii) using sensed information in real-time for closed-loop control.
         for dynamical systems that involve frictional contact interactions. 
         Hybridness and underactuation are key characteristics of these systems 
         that  complicate the design of feedback controllers.
-  <p> Our results show that a Model Predictive Control approach used in tandem 
+        
+  Our results show that a Model Predictive Control approach used in tandem 
   with integer programming offers a powerful solution to capture the dynamic 
   constraints associated with the friction cone as well as the hybrid nature 
   of contact.
-  </p>
+ 
   
   <p>
     <a href="https://arxiv.org/abs/1611.08268"
@@ -41,26 +42,8 @@ ii) using sensed information in real-time for closed-loop control.
     class="button" style="vertical-align:middle"><span>ICRA 2018</span></a>
   </p>
 
-<!-- Entry 2 -->
-  <hr>
-  <h3>
-    Tactile regrasp: Grasp adjustments via simulated tactile transformations
-  </h3>
-  <p>
-		<img src="/img/tactile_regrasp_vertical.png" alt="Tactile" style="float:right;width:45%;" hspace="25" vspace="20">
-	</p>
-  <p>
-        In this project, we develop tactile reflexes, giving robots the ability to make grasp adjustments immediately 
-        upon making contact with an object. Tactile information is used to assess in real-time 
-        the quality of a grasp and predict failures preemptively and to design a controller able to perform local grasp 
-        adjustments, where grasp are improved directly upon making initial touch with an object. 
-	</p>
-  <p>
-    <a href="https://arxiv.org/abs/1803.01940"
-    class="button" style="vertical-align:middle"><span>IROS 2018</span></a>
-  </p>
   
-<!-- Entry 3 -->
+<!-- Entry 2 -->
   <hr>
   <h3>
     Data-Efficient Control for Planar Manipulation 
@@ -78,4 +61,43 @@ ii) using sensed information in real-time for closed-loop control.
   <p>
     <a href="https://arxiv.org/abs/1807.09904"
     class="button" style="vertical-align:middle"><span>CoRL 2018</span></a>
+  </p>
+  
+<!-- Entry 3 -->
+  <hr>
+  <h3>
+    Autonomous Grasping 
+  </h3>
+  <p>
+		<img src="/img/ARC_w_background.png" alt="ARC" style="float:right;width:45%;" hspace="25" vspace="20">
+	</p>
+  <p>
+        During the period 2015-2017, I participated in the Amazon Robotics Challenge (ARC) as part of team MIT-Princeton. 
+        The challenge involved developing  a robotic system capable of recognizing and grasping novel objects in cluttered 
+        environments. Our approach made use of an object agnostic deep learning framework that directly maps visual 
+        observations  to planned robot motion. This work has led to a 
+        1st place in the 2017 stowing task challenge as well as a 2018 Amazon Best System Paper Award.
+	</p>
+  <p>
+    <a href="https://ieeexplore.ieee.org/abstract/document/8461044/"
+    class="button" style="vertical-align:middle"><span>CoRL 2018</span></a>
+  </p>
+  
+<!-- Entry 4 -->
+  <hr>
+  <h3>
+    Tactile Regrasping
+  </h3>
+  <p>
+		<img src="/img/tactile_regrasp_vertical.png" alt="Tactile" style="float:right;width:45%;" hspace="25" vspace="20">
+	</p>
+  <p>
+        In this project, we develop tactile reflexes, giving robots the ability to make grasp adjustments immediately 
+        upon making contact with an object. Tactile information is used to assess in real-time 
+        the quality of a grasp and predict failures preemptively and to design a controller able to perform local grasp 
+        adjustments, where grasp are improved directly upon making initial touch with an object. 
+	</p>
+  <p>
+    <a href="https://arxiv.org/abs/1803.01940"
+    class="button" style="vertical-align:middle"><span>IROS 2018</span></a>
   </p>
