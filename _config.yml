@@ -26,7 +26,7 @@ navbar-links:
   Home: "index"
   Research: "research"
   Publications: "publications"
-  CV: "https://fhogan.cv.com/"
+  CV: "cv"
   #Resources:
   #  - Research: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
