@@ -4,8 +4,15 @@ title: Research
 subtitle: Ph.D. Projects
 ---
 
-My primary research objective is to enable reactive robotic manipulation. The ability to perceive the environment and react to unanticipated events is of paramount importance to deploy robots that are to interact with the physical world, which is difficult to observe and predict. Whereas humans effectively process and react to sensing information, robot manipulation skills are most often programmed in an open- loop fashion, incapable of correcting their motion based on detected errors.
-My research aims to enable robots skilled at i) monitoring the execution of a task, and ii) using sensed information in real-time for closed-loop control. Giving robots the ability to identify mistakes and correct their behavior in a timely fashion is essential for them to purposefully interact with their environment.
+My primary research objective is to enable reactive robotic manipulation. 
+The ability to perceive the environment and react to unanticipated events is of 
+paramount importance to deploy robots that are to interact with the physical world, 
+which is difficult to observe and predict. Whereas humans effectively process and 
+react to sensing information, robot manipulation skills are most often programmed 
+in an open- loop fashion, incapable of correcting their motion based on detected errors.
+My research aims to enable robots skilled at i) monitoring the execution of a task, and 
+ii) using sensed information in real-time for closed-loop control. 
+
 
 
 <!-- Entry 1 -->
@@ -51,5 +58,23 @@ My research aims to enable robots skilled at i) monitoring the execution of a ta
   <p>
     <a href="https://arxiv.org/abs/1803.01940"
     class="button" style="vertical-align:middle"><span>IROS 2018</span></a>
-		
+  </p>
+  
+<!-- Entry 3 -->
+  <hr>
+  <h3>
+    Model-Based Reinforcement Learning for Robotic Manipulation 
+  </h3>
+  <p>
+		<img src="/img/tactile_regrasp_vertical.png" alt="Tactile" style="float:right;width:45%;" hspace="25" vspace="20">
+	</p>
+  <p>
+        In this project, we develop tactile reflexes, giving robots the ability to make grasp adjustments immediately 
+        upon making contact with an object. Tactile information is used to assess in real-time 
+        the quality of a grasp and predict failures preemptively and to design a controller able to perform local grasp 
+        adjustments, where grasp are improved directly upon making initial touch with an object. 
+	</p>
+  <p>
+    <a href="https://arxiv.org/abs/1803.01940"
+    class="button" style="vertical-align:middle"><span>IROS 2018</span></a>
   </p>
