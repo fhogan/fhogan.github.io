@@ -5,8 +5,8 @@ title: Publications
 
 ## Conference Papers
 
-[C1] M. Bauza2<sup>\*</sup>, __F. R. Hogan____<sup>\*</sup>, and A. Rodriguez, "A Data-Efficient Approach to Precise and Controlled Pushing," Conference on Robot Learning (CoRL), Zurich, Switzerland,
-2018.
+[C1] M. Bauza<sup>\*</sup>, __F. R. Hogan__<sup>\*</sup>, and A. Rodriguez, "A Data-Efficient Approach to Precise and Controlled Pushing," Conference on Robot Learning (CoRL), Zurich, Switzerland,
+2018. [/img/pdf-file-format-symbol.png](https://pngtree.com/free-icon/the-task--video-default-icon_162508) [/img/video-file-format-symbol.png](https://pngtree.com/free-icon/the-task--video-default-icon_162508)
 
 [C2] __F. R. Hogan__<sup>\*</sup>, M. Bauza<sup>\*</sup>, and A. Rodriguez, "Tactile Regrasp: Grasp Adjustments via Simulated
 Tactile Transformations,"  International Conference on Intelligent Robots and Systems (IROS), Madrid, Spain,
@@ -32,10 +32,10 @@ San Francisco, CA, 2016.
 
 ## Journal Papers
 
-[J1] F R. Hogan and A. Rodriguez, "Reactive Planar Manipulation with Hybrid Model Predictive Control,"
+[J1] __F. R. Hogan__ and A. Rodriguez, "Reactive Planar Manipulation with Hybrid Model Predictive Control,"
  Submitted to  International Journal of Robotics Research. 
 
-[J2] A. Zeng, S. Song, K.T. Yu, E. Donlon,  F R. Hogan, et al., "Robotic Pick-and-Place of Novel Objects in Clutter 
+[J2] A. Zeng, S. Song, K.T. Yu, E. Donlon,  __F. R. Hogan__, et al., "Robotic Pick-and-Place of Novel Objects in Clutter 
 with Multi-Affordance Grasping and Cross-Domain Image Matching," Submitted to  International Journal of Robotics Research. 
 
 [J3] __F. R. Hogan__ and J. R. Forbes, "Modeling of a Rolling Flexible Spherical Shell,"
