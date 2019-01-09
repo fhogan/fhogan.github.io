@@ -45,7 +45,7 @@ ii) using sensed information in real-time for closed-loop control.
 <!-- Entry 2 -->
   <hr>
   <h3>
-    Data-Efficient Control for Planar Manipulation 
+    Data-Driven Control for Planar Manipulation 
   </h3>
   <p>
 		<img src="/img/pushing_8_track.png" alt="Tactile" style="float:right;width:45%;" hspace="25" vspace="20">
