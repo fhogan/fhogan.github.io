@@ -27,7 +27,7 @@ navbar-links:
   Home: "index"
   Research: "research"
   Publications: "publications"
-  CV: "https://fhogan.github.io/assets/francois_hogan_cv.pdf"
+  CV &nbsp  &nbsp  &nbsp  &nbsp : "https://fhogan.github.io/assets/francois_hogan_cv.pdf"
   #Resources:
   #  - Research: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
@@ -74,12 +74,12 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: false
+  #~ rss: false
   email: "fhogan@mit.edu"
   github: fhogan
 #  reddit: yourname
 #  google-plus: +DeanAttali
-#  linkedin: daattali
+  linkedin: francois-hogan-2b4025b6
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78

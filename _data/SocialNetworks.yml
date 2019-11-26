@@ -15,6 +15,11 @@ github:
   name: "GitHub"
   baseURL: "https://github.com/"
   icon: "fa-github"
+  
+google-scholar:
+  name: "GitHub"
+  baseURL: https://scholar.google.com/
+  icon: "fa-google-scholar"
 
 twitter:
   name: "Twitter"
